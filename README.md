@@ -18,7 +18,7 @@ StyleSense leverages the power of generative AI to act as your personal fashion 
 - **For Every Occasion** — Styling advice for casual, formal, festive, and more
 - **Always On Trend** — Up-to-date fashion insights powered by AI
 
-**Live Demo:** [https://aikr-project-epihzgygwmulhj57ayhhci.streamlit.app/](StyleSense Link)
+**Live Demo:** [StyleSense Link](https://aikr-project-epihzgygwmulhj57ayhhci.streamlit.app/)
 
 ---
 
